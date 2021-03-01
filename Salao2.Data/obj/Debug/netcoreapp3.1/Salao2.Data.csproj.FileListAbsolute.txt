@@ -1,0 +1,15 @@
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\bin\Debug\netcoreapp3.1\Salao2.Data.deps.json
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\bin\Debug\netcoreapp3.1\Salao2.Data.runtimeconfig.json
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\bin\Debug\netcoreapp3.1\Salao2.Data.runtimeconfig.dev.json
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\bin\Debug\netcoreapp3.1\Salao2.Data.dll
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\bin\Debug\netcoreapp3.1\Salao2.Data.pdb
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.csprojAssemblyReference.cache
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.AssemblyInfoInputs.cache
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.AssemblyInfo.cs
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.csproj.CoreCompileInputs.cache
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.csproj.CopyComplete
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.dll
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.pdb
+C:\Users\jessh\source\repos\Salao2\Salao2.Data\obj\Debug\netcoreapp3.1\Salao2.Data.genruntimeconfig.cache

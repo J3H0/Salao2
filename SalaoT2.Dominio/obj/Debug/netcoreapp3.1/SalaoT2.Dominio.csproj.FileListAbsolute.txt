@@ -1,0 +1,8 @@
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.deps.json
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\bin\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.AssemblyInfoInputs.cache
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.AssemblyInfo.cs
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.dll
+C:\Users\jessh\source\repos\Salao2\SalaoT2.Dominio\obj\Debug\netcoreapp3.1\SalaoT2.Dominio.pdb
