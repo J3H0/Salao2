@@ -16,7 +16,6 @@ namespace SalaoT2.Dominio
         public List<Agendamento> Agenda { get; set; }
         
         
-
         public enum StatusServico
         {
             ARealizar,
